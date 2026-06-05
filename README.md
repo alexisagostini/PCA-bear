@@ -1,6 +1,7 @@
 # PCA — Ursus arctos
 
-## 1. Missingness
+## preparation and pca
+
 ```
 #!/bin/bash
 #SBATCH --job-name=ours_pca
