@@ -1,6 +1,6 @@
 # PCA — Ursus arctos
 
-## preparation and pca
+## preparation and pca files
 
 ```
 #!/bin/bash
